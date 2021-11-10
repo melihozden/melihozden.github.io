@@ -1,4 +1,3 @@
-## Welcome to Development Blog
+### Melih Özden - iOS Developer
 
-# Melih Özden - iOS Developer
 
